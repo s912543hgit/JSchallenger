@@ -4,5 +4,5 @@
 // If the number is even, return true
 // Otherwise, return false
 function myFunction(a) {
-  return;
+  return a % 2 === 0;
 }
